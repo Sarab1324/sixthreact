@@ -1,0 +1,13 @@
+nav a {
+    margin-right: 2vmax;
+    color: black;
+    font-size: 1.5vmax;
+    text-decoration: none;
+}
+nav a:hover{
+    color: black;
+}
+
+.red{
+    color: rgb(216, 6, 6);
+}

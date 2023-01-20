@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    width: 100%;
+    height: 100vh;
+}
+.head{
+    width: 90%;
+    height: 10vh;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.dark-mode{
+    background-color: black;
+}
+
+.content{
+    width: 100%;
+    height: 80vh;
+    background-color: rgb(204, 172, 172);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 100px;
+
+}
+
+.foot{
+    width: 50%;
+    height: 10vh;
+    background-color: rgb(209, 110, 110);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
